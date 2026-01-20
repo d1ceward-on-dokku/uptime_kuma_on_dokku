@@ -2,7 +2,6 @@
 
 [![Uptime Kuma](https://img.shields.io/badge/Uptime_Kuma-2.0.2-blue.svg)](https://github.com/louislam/uptime-kuma/releases/tag/2.0.2)
 [![Dokku](https://img.shields.io/badge/Dokku-Repo-blue.svg)](https://github.com/dokku/dokku)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/louislam/uptime-kuma/graphs/commit-activity)
 
 # Run Uptime Kuma on Dokku
 

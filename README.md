@@ -1,6 +1,6 @@
 ![](.github/images/repo_header.png)
 
-[![Uptime Kuma](https://img.shields.io/badge/Uptime_Kuma-2.5.8-blue.svg)](https://github.com/louislam/uptime-kuma/releases/tag/2.5.8)
+[![Uptime Kuma](https://img.shields.io/badge/Uptime_Kuma-2.5.9-blue.svg)](https://github.com/louislam/uptime-kuma/releases/tag/2.5.9)
 [![Dokku](https://img.shields.io/badge/Dokku-Repo-blue.svg)](https://github.com/dokku/dokku)
 
 # Run Uptime Kuma on Dokku
